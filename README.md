@@ -4,6 +4,7 @@ Read-Me
 1) About
 The objective of the following project is to provide its user with a convenient and engaging way to compose music and witness immediate playback
 -------------------------
+
 2) Features
 Basic:
 -treble and bass clefs
@@ -19,7 +20,7 @@ Extended:
 -customizable title and key signature
 -auto-correction of notes based on time signature
 -unlimited pages
------------------------------
+
 3) Running the program
 The user must have the latest version of Python and the module Pygame (can be installed from pygame.org)
 The user must have the fonts Maestro and MetDemo (can be installed from FontSpace.com)
