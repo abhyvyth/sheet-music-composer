@@ -1,5 +1,5 @@
 Sheet Music Composition and Notation Software
-Read-Me
+Read Me
 ------------------------
 1) About
 The objective of the following project is to provide its user with a convenient and engaging way to compose music and witness immediate playback
@@ -7,24 +7,32 @@ The objective of the following project is to provide its user with a convenient 
 
 2) Features
 Basic:
--treble and bass clefs
--quarter, eighth, and half notes
--quarter and eighth rests
--play, pause, and stop features
--can delete notes
--can form chords
--multiple staves per page
+
+-Treble and bass clefs
+
+-Quarter, eighth, and half notes
+
+-Quarter and eighth rests
+
+-Play, pause, and stop capabilities
+
+-Ability to create chords
+
 Extended:
--sweeping bar hits notes as they play
--notes are highlighted when in editing mode
--customizable title and key signature
--auto-correction of notes based on time signature
--unlimited pages
+
+-Sweeping bar hits notes as they play
+
+-Notes are highlighted when in editing mode
+
+-Customizable title and key signature
+
+-Auto-correction of notes based on time signature
+
+-Unlimited pages
 
 3) Running the program
-The user must have the latest version of Python and the module Pygame (can be installed from pygame.org)
-The user must have the fonts Maestro and MetDemo (can be installed from FontSpace.com)
-Download all files from the repository and open the file SheetMusicCreator.py using IDLE
-Run the program
+Must have the latest version of Python and the module Pygame (can be installed from pygame.org)
+Run the file SheetMusicCreator.py 
+
 
 *Look at SheetMusicCreatorMenu.png and clairedelune.png for demo pics*
