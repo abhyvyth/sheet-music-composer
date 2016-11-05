@@ -31,6 +31,7 @@ Extended:
 -Unlimited pages
 
 3) Running the program
+
 Must have the latest version of Python and the module Pygame (can be installed from pygame.org)
 Run the file SheetMusicCreator.py 
 
