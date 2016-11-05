@@ -1,5 +1,4 @@
 Sheet Music Composition and Notation Software
-Read Me
 ------------------------
 My program provides users with a convenient and engaging way to compose music and witness immediate playback
 -------------------------
