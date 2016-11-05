@@ -26,3 +26,5 @@ The user must have the latest version of Python and the module Pygame (can be in
 The user must have the fonts Maestro and MetDemo (can be installed from FontSpace.com)
 Download all files from the repository and open the file SheetMusicCreator.py using IDLE
 Run the program
+
+*Look at SheetMusicCreatorMenu.png and clairedelune.png for demo pics*
